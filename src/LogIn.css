@@ -1,0 +1,22 @@
+.logIn{
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    
+    place-items: center;
+}
+
+.logIn__container{
+    display: flex;
+    flex-direction: column;
+   
+}
+.logIn__container > img{
+    width: 300px;
+
+}
+
+.logIn__container > button{
+    
+    font-size: 10px;
+}
